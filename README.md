@@ -1,4 +1,4 @@
-print(name)
+My name is Sasha
 
 
 
